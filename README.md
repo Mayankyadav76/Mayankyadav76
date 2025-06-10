@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Mayankyadav76
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Rajasthan Technical University
-- 💞️ I’m looking for a Internship
-- 📫 How to reach me https://www.linkedin.com/in/mayank-yadav-b71b15271/
+Hi there, I'm Mayank Yadav! 👋
+🎓 Final Year B.Tech Student | Computer Science Engineering
+📍 Rajasthan Technical University, Kota
+💻 Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-<!---
-Mayankyadav76/Mayankyadav76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+Passionate about Problem-solving and Software development with a knack for both Backend and Frontend web development.
+Began my programming journey in C and evolved to mastering C++, JavaScript, and the MERN Stack.
+Continuously exploring innovative solutions through Data Structures and Algorithms and Full-Stack projects.
+Enthusiastic about applying my skills to AI/ML projects and learning new technologies.
+🛠️ Skills & Expertise
+Programming Languages: C, C++, JavaScript
+Frontend Development: HTML, CSS, React.js, Bootstrap
+Backend Development: Node.js, Express.js
+Databases: MongoDB, MySQL
+Other Tools: Git, GitHub, Power BI
+📚 Projects
+GoFoodie
+A responsive web application for food browsing and seamless shopping cart management.
+Technologies: React.js, Bootstrap, Node.js, Express.js, MongoDB
+
+Chat-Now
+A real-time chat application supporting group and individual conversations.
+Technologies: React.js, Chakra UI, Node.js, Express.js, MongoDB, Socket.io
+
+Smart Agro
+An IoT-enabled platform for real-time agricultural monitoring and automation.
+Technologies: MERN Stack
+
+🌱 Let's Connect!
+📧 Email: mayankyadav762004@gmail.com
+💼 LinkedIn: Mayank Yadav
+🧑‍💻 GitHub: Mayankyadav76
