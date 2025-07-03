@@ -48,16 +48,16 @@ Enthusiastic about applying my skills to AI/ML projects and learning new technol
 
 ## 📚 Projects
 
-### GoFoodie
-A responsive web application for food browsing and seamless shopping cart management.  
-**Technologies:** React.js, Bootstrap, Node.js, Express.js, MongoDB
+### Animal-cure
+A project that helps stray as well as pet animals by giving the quick and certified treatment.
+**Technologies:** React.js, Next.js, DaisyUI , Node.js, Express.js, Firebase , MongoDB
 
 ### Chat-Now
 A real-time chat application supporting group and individual conversations.  
-**Technologies:** React.js, Chakra UI, Node.js, Express.js, MongoDB, Socket.io
+**Technologies:** React.js, Node.js, Express.js, MongoDB
 
-### Smart Agro
-An IoT-enabled platform for real-time agricultural monitoring and automation.  
+### Hack Celestia
+The website provides a captivating representation of the solar system, offering an interactive and visually appealing orrery of planetary elements.
 **Technologies:** MERN Stack
 
 ---
